@@ -1,4 +1,4 @@
-# HEALTH-CARE DATA ANALYSIS
+#### HEALTHCARE DATA ANALYSIS
 
 ### Dashboard Link : https://app.powerbi.com/links/Nt1eerHkY8?ctid=03b7ec4d-37cd-45fc-9485-4b09b26e6726&pbi_source=linkShare
 ## Overall Objective:
@@ -93,7 +93,8 @@
 ![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/4f4c8d37-1552-4fb9-a995-52ca90f5466d)
 
 
-![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/c14ac5f1-7e58-4bec-ba49-5701e3191dff)
+![image](https://github.com/Arya0609/Patient-Analysis/assets/163738283/772cdb26-4a56-4b25-b5a4-c1fd5a9497e9)
+
 
    - Step 5 : Beautifying the visuals using MS-PowerPoint
     - Take Report Snapshot.
@@ -107,25 +108,12 @@
     - Added Interactivity & Navigation.
     - Finally published the file in powerbi service.
 
+![image](https://github.com/Arya0609/Patient-Analysis/assets/163738283/026c3be3-64b8-407f-80c3-717cb3225f64)
+![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/fe7966f5-7e1d-4cf1-b05d-954608b03519)
+![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/9bf88e23-45a3-4309-a6ab-ebce878b4bf9)
 
+![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/25cbe161-0cb4-4007-bc05-09daca135a12)
+![image](https://github.com/Arya0609/Pizza-Sales-Report/assets/163738283/0db5c382-277d-4e02-9cb7-1b8da720bbfd)
 
-
-
-    
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/Arya0609/Patient-Analysis/assets/163738283/52de70c3-51cc-4b37-a4e1-6e5be01b72b0)
+![image](https://github.com/Arya0609/Patient-Analysis/assets/163738283/bc32503f-43c7-41f8-8919-22e5abe0a03d)
